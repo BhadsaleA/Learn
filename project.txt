@@ -1,0 +1,17 @@
+
+we will forward to next slide 
+next we will see the graphical representation of help to classify mushrrom 
+ 
+
+in this graph we see in the dataset convex cap shapes mushroom are present 
+
+
+Multivariate plots :
+we will se the features according to therir class 
+
+Most of the knobbed mushrooms in our dataset are poisonous.
+ cap color and class :
+we definitely say that green color cap and purpule color cap mushroom are edible
+ 
+population: Mushroom with numerous ,abundant population are mostly edible and 
+Mushrooms with a several population are mostly poisonous.
